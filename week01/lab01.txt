@@ -20,3 +20,5 @@ drwxr-xr-x  2 laydianti.nadya StafCS 4096 Feb 13 13:54 week09
 drwxr-xr-x  2 laydianti.nadya StafCS 4096 Feb 13 13:55 week10
 drwxr-xr-x  2 laydianti.nadya StafCS 4096 Feb 13 13:55 xtra
 /home/fasilkom/mahasiswa/l/laydianti.nadya/os171/week01
+Today is 
+Today is 13 Feb 2017 at 14:31:39
