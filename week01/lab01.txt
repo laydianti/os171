@@ -1,0 +1,22 @@
+total 76
+drwxr-xr-x 18 laydianti.nadya StafCS 4096 Feb 13 14:18 .
+drwx--x--x  3 laydianti.nadya StafCS 4096 Feb 13 14:09 ..
+drwxr-xr-x  8 laydianti.nadya StafCS 4096 Feb 13 14:17 .git
+drwxr-xr-x  2 laydianti.nadya StafCS 4096 Feb 13 13:55 key
+-rw-r--r--  1 laydianti.nadya StafCS    0 Feb 13 14:18 lab01.txt
+drwxr-xr-x  2 laydianti.nadya StafCS 4096 Feb 13 13:55 log
+-rw-r--r--  1 laydianti.nadya StafCS    7 Feb 13 13:48 README.md
+drwxr-xr-x  2 laydianti.nadya StafCS 4096 Feb 13 13:57 sandbox
+drwxr-xr-x  2 laydianti.nadya StafCS 4096 Feb 13 14:09 week00
+drwxr-xr-x  2 laydianti.nadya StafCS 4096 Feb 13 13:52 week01
+drwxr-xr-x  2 laydianti.nadya StafCS 4096 Feb 13 13:53 week02
+drwxr-xr-x  2 laydianti.nadya StafCS 4096 Feb 13 13:53 week03
+drwxr-xr-x  2 laydianti.nadya StafCS 4096 Feb 13 13:54 week04
+drwxr-xr-x  2 laydianti.nadya StafCS 4096 Feb 13 13:54 week05
+drwxr-xr-x  2 laydianti.nadya StafCS 4096 Feb 13 13:54 week06
+drwxr-xr-x  2 laydianti.nadya StafCS 4096 Feb 13 13:54 week07
+drwxr-xr-x  2 laydianti.nadya StafCS 4096 Feb 13 13:54 week08
+drwxr-xr-x  2 laydianti.nadya StafCS 4096 Feb 13 13:54 week09
+drwxr-xr-x  2 laydianti.nadya StafCS 4096 Feb 13 13:55 week10
+drwxr-xr-x  2 laydianti.nadya StafCS 4096 Feb 13 13:55 xtra
+/home/fasilkom/mahasiswa/l/laydianti.nadya/os171/week01
