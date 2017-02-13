@@ -1,17 +1,13 @@
 w00-170207-13:00-LR-About: Introduction to Operating System, From: Listening to Lecture
 w00-170207-13:30-LR-About: Introduction to Operating System, From: Listening to Lecture
-w00-170207-14:00-LR-About: Introduction to Operating System, From: Listening to L
-ecture
-w00-170207-14:30-LR-About: Introduction to Operating System, From: Listening to L
-ecture
+w00-170207-14:00-LR-About: Introduction to Operating System, From: Listening to Lecture
+w00-170207-14:30-LR-About: Introduction to Operating System, From: Listening to Lecture
 w00-170208-20:00-PS-About: Doing lab session week00
 w00-170208-20:30-PS-About: Doing lab session week00
 w00-170209-13:00-LR-About: Open Source Operating System, From: Listening to Lecture
 w00-170209-13:30-LR-About: Open Source Operating System, From: Listening to Lecture
-w00-170209-14:00-LR-About: Open Source Operating System, From: Listening to Lectu
-re
-w00-170209-14:30-LR-About: Open Source Operating System, From: Listening to Lectu
-re
+w00-170209-14:00-LR-About: Open Source Operating System, From: Listening to Lecture
+w00-170209-14:30-LR-About: Open Source Operating System, From: Listening to Lecture
 w00-170210-17:30-PS-About: GITHUB Learning
 w00-170210-18:00-PS-About: GITHUB Learning
 w01-170213-13:30-PS-About: Doing lab session week01
