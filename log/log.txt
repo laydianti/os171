@@ -14,7 +14,10 @@ w01-170213-13:30-PS-About: Doing lab session week01
 w01-170213-14:00-PS-About: Doing lab session week02
 w01-170213-14:30-PS-About: Doing lab session week02
 w01-170213-15:00-PS-About: Doing lab session week02
-
-
-
-
+w05-120313-19:00-PS-About: Doing lab session week05
+w05-120313-19:30-PS-About: Doing lab session week05
+w05-120313-20:00-PS-About: Doing lab session week05
+w05-130313-14:00-PS-About: Doing lab session week05
+w05-130313-14:30-PS-About: Doing lab session week05
+w05-130313-15:00-PS-About: Doing lab session week05
+w05-130313-15:30-PS-About: Doing lab session week05
