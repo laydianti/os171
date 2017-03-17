@@ -14,10 +14,21 @@ w01-170213-13:30-PS-About: Doing lab session week01
 w01-170213-14:00-PS-About: Doing lab session week02
 w01-170213-14:30-PS-About: Doing lab session week02
 w01-170213-15:00-PS-About: Doing lab session week02
-w05-120313-19:00-PS-About: Doing lab session week05
-w05-120313-19:30-PS-About: Doing lab session week05
-w05-120313-20:00-PS-About: Doing lab session week05
-w05-130313-14:00-PS-About: Doing lab session week05
-w05-130313-14:30-PS-About: Doing lab session week05
-w05-130313-15:00-PS-About: Doing lab session week05
-w05-130313-15:30-PS-About: Doing lab session week05
+w05-170312-19:00-PS-About: Doing lab session week05
+w05-170312-19:30-PS-About: Doing lab session week05
+w05-170312-20:00-PS-About: Doing lab session week05
+w05-170313-14:00-PS-About: Doing lab session week05
+w05-170313-14:30-PS-About: Doing lab session week05
+w05-170313-15:00-PS-About: Doing lab session week05
+w05-170313-15:30-PS-About: Doing lab session week05
+w05-170314-13:00-LR-About: Memory, From: Listening to Lecture
+w05-170314-13:30-LR-About: Memory, From: Listening to Lecture
+w05-170314-14:00-LR-About: Memory, From: Listening to Lecture
+w05-170314-14:30-LR-About: Memory, From: Listening to Lecture
+w05-170316-13:00-LR-About: Review Soal, From: Listening to Lecture
+w05-170316-13:30-LR-About: Review Soal, From: Listening to Lecture
+w05-170316-14:00-LR-About: Review Soal, From: Listening to Lecture
+w05-170316-14:30-LR-About: Review Soal, From: Listening to Lecture
+w05-170317-15:30-PS-About: Doing lab session week05
+w05-170317-16:00-PS-About: Doing lab session week05
+w05-170317-16:30-PS-About: Doing lab session week05
