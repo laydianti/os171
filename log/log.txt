@@ -32,3 +32,18 @@ w05-170316-14:30-LR-About: Review Soal, From: Listening to Lecture
 w05-170317-15:30-PS-About: Doing lab session week05
 w05-170317-16:00-PS-About: Doing lab session week05
 w05-170317-16:30-PS-About: Doing lab session week05
+w06-170411-13:00-LR-About: Fork, From: Listening to Lecture
+w06-170411-13:30-LR-About: Fork, From: Listening to Lecture
+w06-170411-14:00-LR-About: Fork, From: Listening to Lecture
+w06-170411-14:30-LR-About: Fork, From: Listening to Lecture
+w06-170413-13:00-LR-About: Fork, From: Listening to Lecture
+w06-170413-13:30-LR-About: Fork, From: Listening to Lecture
+w06-170413-14:00-LR-About: Fork, From: Listening to Lecture
+w06-170413-14:30-LR-About: Fork, From: Listening to Lecture
+w06-170414-20:00-PS-About: Doing lab session week06
+w06-170414-20:30-PS-About: Doing lab session week06
+w06-170414-21:00-PS-About: Doing lab session week06
+w06-170414-21:30-PS-About: Doing lab session week06
+w06-170414-22:00-PS-About: Doing lab session week06
+w06-170414-22:30-PS-About: Doing lab session week06
+w06-170414-23:00-PS-About: Doing lab session week06
