@@ -47,3 +47,17 @@ w06-170414-21:30-PS-About: Doing lab session week06
 w06-170414-22:00-PS-About: Doing lab session week06
 w06-170414-22:30-PS-About: Doing lab session week06
 w06-170414-23:00-PS-About: Doing lab session week06
+w07-170418-13:00-LR-About: Synchronization, From: Listening to Lecture
+w07-170418-13:30-LR-About: Synchronization, From: Listening to Lecture
+w07-170418-14:00-LR-About: Synchronization, From: Listening to Lecture
+w07-170418-14:30-LR-About: Synchronization, From: Listening to Lecture
+w07-170420-13:00-LR-About: Synchronization, From: Listening to Lecture
+w07-170420-13:30-LR-About: Synchronization, From: Listening to Lecture
+w07-170420-14:00-LR-About: Synchronization, From: Listening to Lecture
+w07-170420-14:30-LR-About: Synchronization, From: Listening to Lecture
+w07-170422-09:00-PS-About: Doing lab session week07
+w07-170422-09:30-PS-About: Doing lab session week07
+w07-170422-10:00-PS-About: Doing lab session week07
+w07-170422-10:30-PS-About: Doing lab session week07
+w07-170422-11:00-PS-About: Doing lab session week07
+w07-170422-11:30-PS-About: Doing lab session week07
