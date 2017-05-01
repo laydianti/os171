@@ -61,3 +61,17 @@ w07-170422-10:00-PS-About: Doing lab session week07
 w07-170422-10:30-PS-About: Doing lab session week07
 w07-170422-11:00-PS-About: Doing lab session week07
 w07-170422-11:30-PS-About: Doing lab session week07
+w08-170425-13:00-LR-About: Socket, From: Listening to Lecture
+w08-170425-13:30-LR-About: Socket, From: Listening to Lecture
+w08-170425-14:00-LR-About: Socket, From: Listening to Lecture
+w08-170425-14:30-LR-About: Socket, From: Listening to Lecture
+w08-170426-17:00-PS-About: Doing lab session week08
+w08-170426-07:30-PS-About: Doing lab session week08
+w08-170426-18:00-PS-About: Doing lab session week08
+w08-170426-18:30-PS-About: Doing lab session week08
+w08-170426-19:00-PS-About: Doing lab session week08
+w08-170426-19:30-PS-About: Doing lab session week08
+w08-170427-13:00-LR-About: Scheduling, From: Listening to Lecture
+w08-170427-13:30-LR-About: Scheduling, From: Listening to Lecture
+w08-170427-14:00-LR-About: Scheduling, From: Listening to Lecture
+w08-170427-14:30-LR-About: Scheduling, From: Listening to Lecture
