@@ -74,4 +74,18 @@ w08-170426-19:30-PS-About: Doing lab session week08
 w08-170427-13:00-LR-About: Scheduling, From: Listening to Lecture
 w08-170427-13:30-LR-About: Scheduling, From: Listening to Lecture
 w08-170427-14:00-LR-About: Scheduling, From: Listening to Lecture
-w08-170427-14:30-LR-About: Scheduling, From: Listening to Lecture
+w09-170511-16:30-PS-About: Doing lab session week09 & 10
+w09-170511-17:00-PS-About: Doing lab session week09 & 10
+w09-170511-17:30-PS-About: Doing lab session week09 & 10
+w09-170511-18:00-PS-About: Doing lab session week09 & 10
+w09-170511-18:30-PS-About: Doing lab session week09 & 10
+w09-170511-19:00-PS-About: Doing lab session week09 & 10
+w09-170511-21:30-PS-About: Doing lab session week09 & 10
+w09-170511-22:00-PS-About: Doing lab session week09 & 10
+w09-170511-22:30-PS-About: Doing lab session week09 & 10
+w09-170511-23:00-PS-About: Doing lab session week09 & 10
+w09-170511-23:30-PS-About: Doing lab session week09 & 10
+w09-170512-00:00-PS-About: Doing lab session week09 & 10
+w09-170512-00:30-PS-About: Doing lab session week09 & 10
+w09-170512-01:00-PS-About: Doing lab session week09 & 10
+w09-170512-01:30-PS-About: Doing lab session week09 & 10
