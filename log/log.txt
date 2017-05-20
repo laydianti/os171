@@ -89,3 +89,9 @@ w09-170512-00:00-PS-About: Doing lab session week09 & 10
 w09-170512-00:30-PS-About: Doing lab session week09 & 10
 w09-170512-01:00-PS-About: Doing lab session week09 & 10
 w09-170512-01:30-PS-About: Doing lab session week09 & 10
+w10-170517-16:30-PS-About: Doing lab session week09 & 10
+w10-170517-17:00-PS-About: Doing lab session week09 & 10
+w10-170517-17:30-PS-About: Doing lab session week09 & 10
+w10-170517-18:00-PS-About: Doing lab session week09 & 10
+w10-170517-18:30-PS-About: Doing lab session week09 & 10
+w10-170517-19:00-PS-About: Doing lab session week09 & 10
